@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👋 Hi, I'm Gabriel (GabsTheFlaks)!</h1>
+<h1>👋 Hi, I'm Gabriel!</h1>
 <h3>Production Engineering Student & Software Developer
 at Unespar - Paranaguá Campus</h3>
 <img src="https://komarev.com/ghpvc/?username=GabsTheFlaks&color=blueviolet&style=flat-square" alt="Profile Views" />
