@@ -10,8 +10,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-**Sou  Bolsista de PIBITI** Em Prototipagem de negócios de alto impacto - Unespar | Paranaguá - PR | 2025 - 2026
-interessado em resolver problemas complexos unindo **visão de negócios e processos** (Engenharia de Produção) com **tecnologia e automação** (Desenvolvimento de Software). Meu foco é ir em busca da melhoria continua e gestão de processos buscando criar produtos eficientes, escaláveis e que agreguem valor real.
+**Sou  Bolsista de PIBITI** Em Prototipagem de negócios de alto impacto - Unespar | Paranaguá - PR | 2025 - 2026.
+Tenho interesse em resolver problemas complexos unindo **visão de negócios e processos** (Engenharia de Produção) com **tecnologia e automação** (Desenvolvimento de Software). Meu foco é ir em busca da melhoria continua e gestão de processos buscando criar produtos eficientes, escaláveis e que agreguem valor real.
 
 - 🎓 Estudando **Engenharia de Produção**.
 - 🛠️ Desenvolvimento de soluções tecnológicas sustentáveis para startups e spin-offs.
