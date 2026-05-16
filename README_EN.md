@@ -59,15 +59,6 @@ An academic extension project focused on structuring processes and intelligent d
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=GabsTheFlaks&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsTheFlaks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 How to find me
 
 <div align="center"> 
