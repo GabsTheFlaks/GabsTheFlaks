@@ -1,4 +1,4 @@
-
+[![English](https://img.shields.io/badge/English%20version-Available-brightgreen.svg)](https://github.com/GabsTheFlaks/GabsTheFlaks/blob/main/README_EN.md)
 <div align="center">
   <h1>👋 Olá, eu sou o Gabriel (GabsTheFlaks)!</h1>
   <h3>Estudante de Engenharia de Produção & Desenvolvedor de Software
