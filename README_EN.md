@@ -10,7 +10,7 @@ at Unespar - Paranaguá Campus</h3>
 ## 👨‍💻 About Me
 
 **I am a PIBITI Scholarship Recipient** in High-Impact Business Prototyping - Unespar | Paranaguá - PR | 2025 - 2026
-Interested in solving complex problems by combining **business and process vision** (Production Engineering) with **technology and automation** (Software Development). My focus is on continuous improvement and process management, aiming to create efficient, scalable products that add real value.
+I have Interested in solving complex problems by combining **business and process vision** (Production Engineering) with **technology and automation** (Software Development). My focus is on continuous improvement and process management, aiming to create efficient, scalable products that add real value.
 
 - 🎓 Studying **Production Engineering**.
 
