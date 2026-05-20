@@ -53,7 +53,7 @@ An academic extension project focused on structuring processes and intelligent d
 
 - **Backend/DB/Auth:** Supabase.
 
-- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage), Cloudflare Workers.
+- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage, in planning), Cloudflare Workers (in planning)
 
 - **Automation & AI:** Integration with make via Webhooks/APIs for workflows and automations with artificial intelligence.
 
