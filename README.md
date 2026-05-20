@@ -50,7 +50,7 @@ Um projeto de extensão acadêmica focado em estruturação de processos e docum
 **Tech Stack do Projeto:**
 - **Frontend:** Angular (SSR, Signals, Standalone Components), Tailwind CSS.
 - **Backend/DB/Auth:** Supabase.
-- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage), Cloudflare Workers.
+- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage, em planejamento), Cloudflare Workers (em planejamento)
 - **Automação & IA:** Integração com make via Webhooks/APIs para fluxos de trabalho e automações com inteligência artificial.
   
 ---
