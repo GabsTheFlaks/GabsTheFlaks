@@ -44,13 +44,13 @@ Tenho interesse em resolver problemas complexos unindo **visão de negócios e p
 
 ## 🌟 Projeto Destaque
 
-### [SIMA (Sistema Inteligente de Monitoramento Acadêmico)](https://github.com/GabsTheFlaks/app-de-estudo)
-Um projeto de extensão acadêmica focado em estruturação de processos e documentação inteligente. O SIMA é uma plataforma web desenvolvida para ser escalável e eficiente, servindo também como portfólio de engenharia de Produção.
+### [SIMA (Sistema Inteligente de Monitoramento Acadêmico) v2.0](https://github.com/GabsTheFlaks/app-de-estudo)
+Um projeto de extensão acadêmica focado em estruturação de processos e documentação inteligente. O SIMA (Sistema Inteligente de Monitoramento Acadêmico) evoluiu para a versão 2.0, focando em uma arquitetura Serverless escalável de alta performance para gerenciar turmas, aulas e progresso de alunos, servindo também como portfólio de engenharia de Produção.
 
-**Tech Stack do Projeto:**
-- **Frontend:** Angular (SSR, Signals, Standalone Components), Tailwind CSS.
+**Tech Stack do Projeto (v2.0):**
+- **Frontend:** Angular 21 (SSR, Signals, Standalone Components, Vitest), Tailwind CSS v4.
 - **Backend/DB/Auth:** Supabase.
-- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage, em planejamento), Cloudflare Workers (em planejamento)
+- **Cloud/Infra:** Cloudflare Pages (Hosting), Cloudflare R2 (Storage híbrido), Cloudflare Workers (Serverless).
 - **Automação & IA:** Integração com make via Webhooks/APIs para fluxos de trabalho e automações com inteligência artificial.
   
 ---
