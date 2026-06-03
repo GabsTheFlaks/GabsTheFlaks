@@ -46,7 +46,7 @@ I have Interested in solving complex problems by combining **business and proces
 ## 🌟 Featured Project
 
 ### [SIMA (Intelligent Academic Monitoring System) v2.0](https://github.com/GabsTheFlaks/app-de-estudo)
-An academic extension project focused on structuring processes and intelligent documentation. SIMA (Sistema Inteligente de Monitoramento Acadêmico) evolved into version 2.0, focusing on a scalable, high-performance Serverless architecture to manage classes, lessons, and student progress, also serving as a Production Engineering portfolio.
+SIMA App is a support module for academic extension projects focused on structuring processes and intelligent documentation. SIMA has evolved to version 2.0, focusing on a scalable, high-performance serverless architecture for managing classes, lessons, and student progress, occasionally also serving as a portfolio for the Production Engineering course.
 
 **Project Tech Stack (v2.0):**
 - **Frontend:** Angular 21 (SSR, Signals, Standalone Components, Vitest), Tailwind CSS v4.
