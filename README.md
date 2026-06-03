@@ -45,7 +45,7 @@ Tenho interesse em resolver problemas complexos unindo **visão de negócios e p
 ## 🌟 Projeto Destaque
 
 ### [SIMA (Sistema Inteligente de Monitoramento Acadêmico) v2.0](https://github.com/GabsTheFlaks/app-de-estudo)
-Um projeto de extensão acadêmica focado em estruturação de processos e documentação inteligente. O SIMA (Sistema Inteligente de Monitoramento Acadêmico) evoluiu para a versão 2.0, focando em uma arquitetura Serverless escalável de alta performance para gerenciar turmas, aulas e progresso de alunos, servindo também como portfólio de engenharia de Produção.
+Sima App é um Módulo de Apoio do projeto de extensão acadêmica focado em estruturação de processos e documentação inteligente. O SIMA evoluiu para a versão 2.0, focando em uma arquitetura Serverless escalável de alta performance para gerenciar turmas, aulas e progresso de alunos, servindo também como portfólio do curso de engenharia de Produção.
 
 **Tech Stack do Projeto (v2.0):**
 - **Frontend:** Angular 21 (SSR, Signals, Standalone Components, Vitest), Tailwind CSS v4.
